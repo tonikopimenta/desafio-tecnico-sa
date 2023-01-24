@@ -3,7 +3,7 @@
 Fluxo Criado para o desafio técnico;
 API criada para retornar os 5 projetos mais antigos da Take escritos em C#, em ordem crescente.
 
-A api necessária para a realização do desafio está publicada e rodando no Heroku (https://teste-blip.herokuapp.com/, a requisição utilizada pelo bot da Blip é https://teste-blip.herokuapp.com/repos).
+A api necessária para a realização do desafio está publicada e rodando no Render (https://teste-blip-sa.onrender.com/, a requisição utilizada pelo bot da Blip é https://teste-blip-sa.onrender.com/repos).
 A api também encontra-se na pasta challenge/Api/
 
 Passos para rodar a api localmente:
